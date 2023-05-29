@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>MinChon's Website</title>
@@ -126,4 +125,4 @@
         </h4>
 	</footer>
 </body>
-</html># MinChonNewVersion
+</html>
